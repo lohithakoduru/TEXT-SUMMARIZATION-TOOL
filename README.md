@@ -35,3 +35,7 @@ PyTorch – the machine learning backend
 By the end of this task, I had a fully functional summarization tool that could process text and return accurate, relevant summaries. It helped me understand the practical use of transformer-based models and how NLP can be leveraged for tasks involving document understanding and information reduction.
 
 This task also introduced me to important NLP concepts such as tokenization, encoder-decoder architecture, and sequence-to-sequence learning. Overall, Task 1 helped solidify my understanding of NLP and its real-world potential in text-heavy industries.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/a116b182-846a-438f-884b-08127daaec35)
